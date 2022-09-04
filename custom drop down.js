@@ -57,6 +57,26 @@ function app() {
         {
         label: "Programming / Development",
         value: "Programming / Development"
+        },
+        {
+        label: "Dev/Ops",
+        value: "Dev/Ops"
+        },
+        {
+        label: "User Interface Design",
+        value: "User Interface Design"
+        },
+        {
+        label: "Digital Transformation",
+        value: "Digital Transformation"
+        },
+        {
+        label: "Blockchain",
+        value: "Blockchain"
+        },
+        {
+        label: "Other",
+        value: "Other"
         }
     ];
 
